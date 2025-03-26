@@ -1,1 +1,2 @@
 # youtube-clone
+I successfully completed a YouTube clone project, where I designed and developed a video-sharing platform with features similar to YouTube. The project allowed users to upload, share, and view videos, with functionality for commenting, liking, and subscribing to channels. I implemented user authentication, video playback, and search functionality, among other features, to create a seamless user experience.
